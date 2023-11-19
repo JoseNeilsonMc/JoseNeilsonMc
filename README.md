@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neisonsantos/#:~:text=www.linkedin.com/in/neisonsantos)
 
 ![Neilson GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseNeilsonMc&show_icons=true&theme=tokyonight)
-
+![JoseNeilsonMc GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseNeilsonMc&theme=tokyonight)
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"></br>
