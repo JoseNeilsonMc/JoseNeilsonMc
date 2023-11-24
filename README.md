@@ -17,4 +17,4 @@
  
 <div></br>
 
-Paixonado por tecnologia, educação e por mudar a vida das pessoas através da Programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da Programação.
