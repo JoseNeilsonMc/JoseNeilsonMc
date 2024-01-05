@@ -8,10 +8,11 @@
 ![Neilson GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseNeilsonMc&show_icons=true&theme=tokyonight)
 ![JoseNeilsonMc GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseNeilsonMc&theme=tokyonight)
 ## Tecnologias que uso no meu dia
-
+<div style="display: inline_block" >
+ <img align="center"alt="animacao" src="https://media3.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif">
+</div>
 <div style="display: inline_block">
- 
-<img src="https://media3.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif" width="500">
+</b>
  <img align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img align="center"alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img align="center"alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
