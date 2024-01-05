@@ -19,4 +19,3 @@
 <div></br>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da Programação.
-![Snake animation](https://github.com/JoseNeilsonMc/JoseNeilsonMc/blob/output/github-contribution-grid-snake.svg)
