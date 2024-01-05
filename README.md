@@ -19,3 +19,4 @@
 <div></br>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da Programação.
+<img src="https://media3.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif" width="500">
