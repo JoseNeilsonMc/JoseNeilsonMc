@@ -1,7 +1,8 @@
 ![foto-logo](https://github.com/JoseNeilsonMc/JoseNeilsonMc/assets/123743716/ef425edb-4790-4666-b394-a03987223d5b)
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center"> ❤️ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+ </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoseNeilsonMc&theme=radical&mode=weekly" />
@@ -36,7 +37,7 @@
 <div> 
 <a href = "mailto:contato.neilsonvlcdn@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/neisonsantos/#:~:text=www.linkedin.com/in/neisonsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" taget="_blank"></a>
+![whatsapp](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
   
   
