@@ -1,15 +1,16 @@
-![foto-logo](https://github.com/JoseNeilsonMc/JoseNeilsonMc/assets/123743716/ef425edb-4790-4666-b394-a03987223d5b)
-&nbsp;&nbsp;&nbsp;
+<img align="center" alt="logo" width="400" src="https://github.com/JoseNeilsonMc/JoseNeilsonMc/assets/123743716/ef425edb-4790-4666-b394-a03987223d5b">
+&nbsp;
 
 <p align="center"> ❤️ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
  </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoseNeilsonMc&theme=radical&mode=weekly" />
+<div>
+<a href="htpps://beacons.ai/JoseNeilsonMc">	
+<img width=400em  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoseNeilsonMc&show_icons=true&theme=dark&include_all_commits=true&count=radical&mode=dark" />
  &nbsp;
- <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={https://github.com/JoseNeilsonMc}&theme=blue-green" />
+ <img width=400em align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseNeilsonMc&layout=compact&langs_count&theme=dark"/>
  &nbsp;
-
+</div>
 
 ## My Skills
 
