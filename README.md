@@ -36,7 +36,7 @@
 <div> 
 <a href = "mailto:contato.neilsonvlcdn@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/neisonsantos/#:~:text=www.linkedin.com/in/neisonsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- 
+<a href="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" taget="_blank"></a>
 
   
   
