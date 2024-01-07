@@ -7,7 +7,7 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoseNeilsonMc&theme=radical&mode=weekly" />
  &nbsp;
- <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={}&theme=blue-green" />
+ <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username={https://github.com/JoseNeilsonMc}&theme=blue-green" />
  &nbsp;
 
 
