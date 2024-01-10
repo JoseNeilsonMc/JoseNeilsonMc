@@ -5,8 +5,7 @@
  </p>&nbsp;
 
 <div>
-<a href="htpps://beacons.ai/JoseNeilsonMc">	
-<img width=400em  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoseNeilsonMc&show_icons=true&theme=dark&include_all_commits=true&count=radical&mode=dark" />
+ <img width=400em align="center"  src="https://github-readme-stats.vercel.app/api?username=JoseNeilsonMc&show_icons=true&theme=radical"/>
  &nbsp;
  <img width=400em align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseNeilsonMc&layout=compact&langs_count&theme=dark"/>
  &nbsp;
