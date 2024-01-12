@@ -1,4 +1,4 @@
-<img align="center" alt="logo" width="400" src="https://github.com/JoseNeilsonMc/JoseNeilsonMc/assets/123743716/ef425edb-4790-4666-b394-a03987223d5b">
+<img align="center" alt="logo" width="400"  filter="drop-shadow(0 0 0.4em rgb(229,229,229))" src="https://github.com/JoseNeilsonMc/JoseNeilsonMc/assets/123743716/ef425edb-4790-4666-b394-a03987223d5b">
 &nbsp;
 
 <p align="center"> ❤️ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
